@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ZapCar",
+    "packageName": "br.com.teltools.zapcar",
+    "packageFolder": "br/com/teltools/zapcar",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MTQxYzc0Mjc4MGYxYTZmNTg1YTk5YzI5YzdhYTkzZjk3YmNkOTFhNDc3NDNlZWZkOWNhNzcyNGY3MTBkNDk1YzAzNDUwMWFkMmQ4MWQ0Nzc2MjhmNDMwMGY2OTFlNDZlZWNiNWE3NGFkN2YzMTk4OTJhZjhkMDBmYTExMDlmOTg=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "andersonfmoreno",
+  "repository-name": "ZapCar"
+}
